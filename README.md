@@ -1,4 +1,3 @@
-# Schematics-Classic-Infrastructure-ROKS
 
 # Desplegar Cluster de OpenShift desde Terraform
 
@@ -180,3 +179,5 @@ _Ademas debemos crear desde la pagina de IBM Cloud los siguientes recursos:_
 
 * **Jhoiner Smith Rojas González** -  - jhoinerrojas@ibm.com
 _Equipo IBM Cloud Tech Sales Colombia._
+
+
