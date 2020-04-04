@@ -175,6 +175,11 @@ _Ademas debemos crear desde la pagina de IBM Cloud los siguientes recursos:_
 * 1 Vlan privada.
 
 
+### Enlaces Guia y Similares 📖
+
+* https://github.com/IBM-Cloud/terraform-ibm-openshift
+* https://github.com/Cloud-Schematics/classic-cluster
+
 ## Autor ✒️
 
 * **Jhoiner Smith Rojas González** -  - jhoinerrojas@ibm.com
