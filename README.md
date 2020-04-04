@@ -23,7 +23,7 @@ _Despues de haber hecho el pull de la imagen, debemos verificar que se a agregad
 _Ahora debemos ingresar en esta imagen que acabamos de subir para desde ahi realizar el despliegue, Para ingresar a la imagen debemos ingresar el siguiente comando:_
 
     
-    docker run -it ibmterraform/terraform-provider-ibm-docker:latest
+    docker run -it ibmterraform/terraform-provider-ibm-docker:latest /bin/bash
     
     
 ## Despliegue 📦
