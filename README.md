@@ -34,7 +34,7 @@ _Apenas ingresemos a la imagen debe aparecer al inicio de la linea de comandos l
     
 _Ahora debemos clonar el repositorio de GitHub, y esto se hace mediante el siguiente comando:_
 
-    git clone https://github.com/Smith2008S/terraform-openshift.git
+    git clone https://github.com/emeloibmco/Schematics-Classic-Infrastructure-ROKS.git
     
 _Al tener clonado el repositorio, debemos ingresar a este preyecto y lo hacemos mediante el siguiente comando:_
 
