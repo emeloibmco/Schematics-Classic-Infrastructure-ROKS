@@ -38,7 +38,7 @@ _Ahora debemos clonar el repositorio de GitHub, y esto se hace mediante el sigui
     
 _Al tener clonado el repositorio, debemos ingresar a este preyecto y lo hacemos mediante el siguiente comando:_
 
-    cd terraform-openshift/ibm-iks-openshift
+    cd Schematics-Classic-Infrastructure-ROKS/ibm-iks-openshift
  
 ## Ahora debemos modificar los diferentes archivos que encontramos aqui 🛠️
 
