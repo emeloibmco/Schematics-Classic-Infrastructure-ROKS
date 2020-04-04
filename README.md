@@ -30,7 +30,7 @@ _Ahora debemos ingresar en esta imagen que acabamos de subir para desde ahi real
 
 _Apenas ingresemos a la imagen debe aparecer al inicio de la linea de comandos lo siguiente:_
 
-    Bash #
+    Bash-4.4#
     
 _Ahora debemos clonar el repositorio de GitHub, y esto se hace mediante el siguiente comando:_
 
