@@ -12,11 +12,11 @@ variable "hardware" {
 }
 
 variable "private_vlan_id" {
-  default = "3236"
+  default = "3272"
 }
 
 variable "public_vlan_id" {
-  default = "1819"
+  default = "1504"
 }
 
 variable "cluster_name" {
