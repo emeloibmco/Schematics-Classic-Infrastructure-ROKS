@@ -1,13 +1,13 @@
 variable "iaas_classic_username" {
-  description = "Enter your IBM Infrastructure (softlayer) full username, you can get this using: https://control.bluemix.net/account/user/profile"
+  description = 2059386_jhoinerrojas@ibm.com
 }
 
 variable "iaas_classic_api_key" {
-  description = "Enter your IBM Infrastructure (softlayer) API Key, you can get this using: https://control.bluemix.net/account/user/profile"
+  description = a47020190de8b75e3084a1c9ddf3a5016658ca82cffcd17f92060abc7ee81d0b
 }
 
 variable "ibmcloud_api_key" {
-  description = "Enter your IBM Cloud API Key, you can get your IBM Cloud API key using: https://cloud.ibm.com/iam#/apikeys"
+  description = 8FynCmLa_2Xy0NXCWU1W6b3gMeeGDjW7ibLCPfBs5Tcy
 }
 
 provider "ibm" {
